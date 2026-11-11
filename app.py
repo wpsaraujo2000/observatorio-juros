@@ -241,4 +241,4 @@ Plataforma independente e educacional, sem afiliação ou endosso do BIS. Fonte:
     st.download_button('↓ Exportar painel completo', csv(dados.drop(columns='iso3')), file_name='painel_bis_completo.csv', mime='text/csv')
 
 st.divider()
-st.caption('OBSERVATÓRIO GLOBAL DE JUROS · Fonte: BIS · Dados mensais observados · Pesquisa e educação econômica')
+st.caption('OBSERVATÓRIO GLOBAL DE JUROS · Fonte: BIS · Dados mensais observados')
